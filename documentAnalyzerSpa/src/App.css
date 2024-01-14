@@ -1,0 +1,17 @@
+#root {
+  width: 500px;
+  height: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #ececec;
+}
+
+.chat{
+
+}
+.overlay{
+  position:fixed;
+  top: 0px;
+
+}
